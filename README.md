@@ -12,7 +12,11 @@
 
 * 📖 Master of Science in Computer Engineering @ [Stony Brook University](https://www.stonybrook.edu/undergraduate-admissions/programs/ece.php). 
 
-* 💡 Open to collaborating on projects and innovative ideas. 
+* 💡 Eager to join hands for exciting projects.
+
+* 🔍 Exploring new opportunities in the tech industry.
+
+* 🤝 Ready to team up for tech-driven initiatives. 
 
 * 💻 Currently working on Full-Stack Development
 
