@@ -20,6 +20,14 @@
 
 * 💻 Currently working on Full-Stack Development
 
+* 🤖 HTTP status code: `404 (because sometimes I'm not found at my desk!)`
+
+## 🌍 My Natural Habitat:
+- 60% at my desk, google for solutions.
+- 20% in nature, seeking inspiration.
+- 10% in the kitchen, brewing latte and code.
+- 10% in dreamland, where error doesn't exist.
+
 <details>
 <summary>📈 Stats</summary>
 <br>
