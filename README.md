@@ -20,7 +20,7 @@
 
 * 💻 Currently working on Full-Stack Development
 
-* 🤖 HTTP status code: `404 (because sometimes I'm not found at my desk!)`
+* 🤖 HTTP status code: `404 (because sometimes I'm not found at my desk lol)`
 
 ## 🌍 My Natural Habitat:
 - 60% at my desk, google for solutions.
