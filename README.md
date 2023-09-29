@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/elwin212">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=1000&multiline=true&width=500&height=80&lines=Yi-Hsuan+Wang;MSCE+%7C+Full-Stack+Developer+%7C+Software+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&multiline=true&width=500&height=80&lines=Yi-Hsuan+Wang;MSCE;Full-Stack+Developer+%7C+Software+Engineer" alt="Typing SVG" />
 </a>
 <br/>
 
