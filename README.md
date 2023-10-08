@@ -23,7 +23,7 @@
 * 🤖 HTTP status code: `404 (not found at my desk lol)`
 
 ## 🌍 My Natural Habitat:
-- 60% at my desk, google for solutions.
+- 60% at my desk, googling for solutions.
 - 20% in nature, seeking inspiration.
 - 10% in the kitchen, brewing latte and code.
 - 10% in dreamland, where error doesn't exist.
