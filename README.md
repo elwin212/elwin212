@@ -10,15 +10,15 @@
 
 </p>
 
-* 📖 Master of Science in Computer Engineering @ [Stony Brook University](https://www.stonybrook.edu/undergraduate-admissions/programs/ece.php). 
+* 📖 Graduated from **Master of Science in Computer Engineering** @ [Stony Brook University](https://www.stonybrook.edu/undergraduate-admissions/programs/ece.php). 
+
+* 💻 Currently working on Full-Stack Development
+
+* 🔍 Exploring new technology everyday.
 
 * 💡 Eager to join hands for exciting projects.
 
-* 🔍 Exploring new opportunities in the tech industry.
-
 * 🤝 Ready to team up for tech-driven initiatives. 
-
-* 💻 Currently working on Full-Stack Development
 
 * 🤖 HTTP status code: `404 (not found at my desk lol)`
 
