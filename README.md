@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/elwin212">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&multiline=true&width=500&height=80&lines=Yi-Hsuan+Wang;MSCE;Full-Stack+Developer+%7C+Software+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&multiline=true&width=500&height=80&lines=Yi-Hsuan+Wang;MSCE;Full-Stack+Engineer" alt="Typing SVG" />
 </a>
 <br/>
 
@@ -16,17 +16,7 @@
 
 * 🔍 Exploring new technology everyday.
 
-* 💡 Eager to join hands for exciting projects.
-
-* 🤝 Ready to team up for tech-driven initiatives. 
-
 * 🤖 HTTP status code: `404 (not found at my desk lol)`
-
-## 🌍 My Natural Habitat:
-- 60% at my desk, googling for solutions.
-- 20% in nature, seeking inspiration.
-- 10% in the kitchen, brewing latte and code.
-- 10% in dreamland, where error doesn't exist.
 
 <details>
 <summary>📈 Stats</summary>
