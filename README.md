@@ -16,7 +16,7 @@
 
 * 🔍 Exploring new technology everyday.
 
-* 🤖 HTTP status code: `404 (not found at my desk lol)`
+* 🤖 HTTP status code: `200 (actively building)`
 
 <details>
 <summary>📈 Stats</summary>
