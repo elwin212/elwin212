@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/elwin212">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&multiline=true&width=500&height=80&lines=Yi-Hsuan+Wang;MSCE;Full-Stack+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&multiline=true&width=500&height=80&lines=Yi-Hsuan+Wang;Product%20x%20Engineering;Full-Stack+Engineer" alt="Typing SVG" />
 </a>
 <br/>
 
@@ -12,9 +12,9 @@
 
 * 📖 Graduated from **Master of Science in Computer Engineering** @ [Stony Brook University](https://www.stonybrook.edu/undergraduate-admissions/programs/ece.php). 
 
-* 💻 Currently working on Full-Stack Development
+* 💻 Currently working on Product Development
 
-* 🔍 Exploring new technology everyday.
+* 🔍 Exploring new things everyday.
 
 * 🤖 HTTP status code: `200 (actively building)`
 
